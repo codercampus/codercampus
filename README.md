@@ -2,8 +2,8 @@
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img width="100px" height="20px" src="https://komarev.com/ghpvc/?username=prodip-dev&label=Profile%20views&color=d81b60&style=flat"
-" alt="prodip-dev" /> <a href="https://twitter.com/prodiphear" target="blank"><img height="20px" src="https://img.shields.io/twitter/follow/prodiphear?logo=twitter&style=flat&color=d81b60" alt="prodiphear" /></a></p>
+<p align="left"> <img width="100px" height="20px" src="https://komarev.com/ghpvc/?username=codercampus&label=Profile%20views&color=d81b60&style=flat"
+" alt="codercampus" /> <a href="https://twitter.com/prodiphear" target="blank"><img height="20px" src="https://img.shields.io/twitter/follow/prodiphear?logo=twitter&style=flat&color=d81b60" alt="prodiphear" /></a></p>
 
 
 
